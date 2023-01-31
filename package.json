@@ -1,0 +1,28 @@
+{
+  "name": "lab-nodejsbasics-thirdpartymodules-amitistyping",
+  "version": "1.0.0",
+  "description": "<img width=\"150px\" src=\"https://w0244079.github.io/nscc/nscc-jpeg.jpg\" >",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@amit.github.com:NSCC-Winter2023-APPD5015/lab-nodejsbasics-thirdpartymodules-amitistyping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.6",
+    "builtin-modules": "^3.3.0",
+    "chalk": "^5.2.0",
+    "is-builtin-module": "^3.2.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
